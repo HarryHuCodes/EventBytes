@@ -13,11 +13,19 @@ It is simple, but it does the job :information_desk_person:
 ![Screenshot 2023-12-14 153340](https://github.com/HarryHuCodes/EventBytes/assets/48864969/59ed1fb0-aae4-4d5a-8240-063ace95bfee)
 ![Screenshot 2023-12-14 153500](https://github.com/HarryHuCodes/EventBytes/assets/48864969/f0cea5d0-fb2d-4742-8891-ad93d03e1d03)
 Calendar to track events based on dates!
+![Screenshot 2023-12-14 160055](https://github.com/HarryHuCodes/EventBytes/assets/48864969/0d2e6bbb-a3c0-4bc1-a04d-147e7da2853c)
 
 
 ## More to be done 
 This is just a foundation. Core features are there but can be improved!
 Website could use some more styling and design to add a spark :sparkles:
+![Screenshot 2023-12-14 160359](https://github.com/HarryHuCodes/EventBytes/assets/48864969/05b7753f-066b-46a3-bb67-3f70567549f7)
+
+
+## User stories, epics and architecture 
+![Screenshot 2023-12-14 160421](https://github.com/HarryHuCodes/EventBytes/assets/48864969/e081e8e9-660f-4bd6-a77d-cd0178916bc4)
+![Screenshot 2023-12-14 160556](https://github.com/HarryHuCodes/EventBytes/assets/48864969/7e4fdfab-4545-4166-9595-40e2ed37c40d)
+
 
 ## Getting started
 
